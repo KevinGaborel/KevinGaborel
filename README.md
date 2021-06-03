@@ -1,13 +1,14 @@
+
 ## Bonjour et bienvenue sur ma page Github ! 👋
 
-### Présentation rapide
+### Présentation
 
 Je m'appelle [*Kévin Gaborel*](https://www.linkedin.com/in/kevin-gaborel/), et je suis actuellement en formation développeur web fullstack, avec l'école O'clock, après avoir travaillé pendant plusieurs années comme magasinier cariste.
 
 La formation a débuté le 18 janvier 2021 et ce terminera prochainement, le 2 juillet.
 
-
-### Technologies utilisée
+----------------
+### Technologies utilisée 
 
 | Languages | Outils |
 |-----------|--------|
@@ -16,6 +17,7 @@ La formation a débuté le 18 janvier 2021 et ce terminera prochainement, le 2 j
 | JavaScript  | [Ejs](https://ejs.co/)     |
 | SQL       | [PostgreSQL](https://www.postgresql.org/)|
 |   | [Sequelize](https://sequelize.org/)               |
+
 <!--
 **KevinGaborel/KevinGaborel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
