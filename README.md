@@ -3,9 +3,9 @@
 
 ### Présentation
 
-Je m'appelle [*Kévin Gaborel*](https://www.linkedin.com/in/kevin-gaborel/), et je suis actuellement en formation développeur web fullstack, avec l'école O'clock, après avoir travaillé pendant plusieurs années comme magasinier cariste.
+Je m'appelle [*Kévin Gaborel*](https://www.linkedin.com/in/kevin-gaborel/), et je viens de terminer la formation développeur web fullstack, avec l'école O'clock, après avoir travaillé pendant plusieurs années comme magasinier cariste.
 
-La formation a débuté le 18 janvier 2021 et ce terminera prochainement, le 2 juillet.
+La formation a débuté le 18 janvier 2021 et c'est terminé le 2 juillet.
 
 ----------------
 ### Technologies utilisée 
