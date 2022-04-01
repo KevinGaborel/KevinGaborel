@@ -16,8 +16,8 @@ La formation a débuté le 18 janvier 2021 et c'est terminé le 2 juillet.
 | CSS3      | [Express](https://expressjs.com/fr/) |
 | JavaScript  | [Ejs](https://ejs.co/)     |
 | SQL       | [PostgreSQL](https://www.postgresql.org/)|
-|   | [Sequelize](https://sequelize.org/)               |
-|   | [React.js](https://fr.reactjs.org/)        |
+| Sass  | [Sequelize](https://sequelize.org/)               |
+| React router  | [React.js](https://fr.reactjs.org/)        |
 
 <!--
 **KevinGaborel/KevinGaborel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
