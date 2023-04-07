@@ -5,9 +5,14 @@
 
 Je m'appelle [*Kévin Gaborel*](https://www.linkedin.com/in/kevin-gaborel/), et j'ai terminé la formation développeur web fullstack, avec l'école O'clock, après avoir travaillé pendant plusieurs années comme magasinier cariste.
 
-La formation a débuté le 18 janvier 2021 et c'est terminé le 2 juillet.
+La formation a débuté le en janvier 2021 et c'est terminé en juillet.
 
-Actuellement, je suis en formation avec Openclassrooms sur la formation " développeur d'application - javaScript React " équivalent bac +3 / bac +4.
+Par la suite, je me suis formé en autodidacte sur React.js, et en vue de m'améliorer coté front, j'ai rejoint en février 2022 la formation "Développeur d'application - javaScript React" équivalent bac+3 / bac+4 avec OpenClassrooms.
+
+Actuellement, je suis bénévole en tant que développeur web sur une mission d'intérêt général, le challenge Green Data for Health, qui vise à permettre une meilleure mobilisation et valorisation, par les acteurs de la recherche et de l’expertise, des données environnementales au service de la santé-environnement.
+
+Je suis à l'écoute d'opportunités d'emploi, je recherche particulièrement un stage / CDI / CDD.
+N'hésitez pas a prendre contact avec moi si vous souhaitez en savoir plus.
 
 ----------------
 ### Technologies utilisée 
