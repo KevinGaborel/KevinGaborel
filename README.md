@@ -9,9 +9,9 @@ La formation a débuté le en janvier 2021 et c'est terminé en juillet.
 
 Par la suite, je me suis formé en autodidacte sur React.js, et en vue de m'améliorer coté front, j'ai rejoint en février 2022 la formation "Développeur d'application - javaScript React" équivalent bac+3 / bac+4 avec OpenClassrooms.
 
-Actuellement, je suis bénévole en tant que développeur web sur une mission d'intérêt général, le challenge Green Data for Health, qui vise à permettre une meilleure mobilisation et valorisation, par les acteurs de la recherche et de l’expertise, des données environnementales au service de la santé-environnement.
+J'ai été bénévole en tant que développeur web sur une mission d'intérêt général, le challenge Green Data for Health, qui vise à permettre une meilleure mobilisation et valorisation, par les acteurs de la recherche et de l’expertise, des données environnementales au service de la santé-environnement.
 
-Je suis à l'écoute d'opportunités d'emploi, je recherche particulièrement un stage / CDI / CDD.
+Je suis à l'écoute d'opportunités d'emploi.
 N'hésitez pas a prendre contact avec moi si vous souhaitez en savoir plus.
 
 ----------------
@@ -22,7 +22,9 @@ N'hésitez pas a prendre contact avec moi si vous souhaitez en savoir plus.
 | HTML5     | Node.js |
 | CSS3      | Express |
 | JavaScript  | Ejs    |
+| TypeScript  | Docker    |
 | SQL       | PostgreSQL |
+| GraphQL       | Prisma |
 | Sass  | Sequelize              |
 | React router  | React.js       |
 | Jest  | Testing Library       |
