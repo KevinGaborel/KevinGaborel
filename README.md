@@ -15,20 +15,17 @@ Je suis à l'écoute d'opportunités d'emploi.
 N'hésitez pas a prendre contact avec moi si vous souhaitez en savoir plus.
 
 ----------------
-### Technologies utilisée 
+### Technologies Utilisées
 
-| Languages | Outils |
-|-----------|--------|
-| HTML5     | Node.js |
-| CSS3      | Express |
-| JavaScript  | Ejs    |
-| TypeScript  | Docker    |
-| SQL       | PostgreSQL |
-| GraphQL       | Prisma |
-| Sass  | Sequelize              |
-| React router  | React.js       |
-| Jest  | Testing Library       |
-| Storybook  | Headless UI       |
+| Frontend         | Backend         | Outils / Librairies      |
+|------------------|-----------------|--------------------------|
+| HTML5            | Node.js         | Docker                   |
+| CSS3             | Express         | Testing Library          |
+| JavaScript       | Ejs              | Jest               |
+| TypeScript       | GraphQL          | Storybook                    |
+| React.js         |   PostgreSQL    |   Headless UI       |   
+| React Router     |  Sequelize      |              |              
+| Sass             |   Prisma        |                          |    
 
 <!--
 **KevinGaborel/KevinGaborel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
