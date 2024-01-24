@@ -28,6 +28,7 @@ N'hésitez pas a prendre contact avec moi si vous souhaitez en savoir plus.
 | Sass  | Sequelize              |
 | React router  | React.js       |
 | Jest  | Testing Library       |
+| Storybook  | Headless UI       |
 
 <!--
 **KevinGaborel/KevinGaborel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
