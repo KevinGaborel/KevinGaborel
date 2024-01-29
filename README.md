@@ -23,7 +23,7 @@ N'hésitez pas a prendre contact avec moi si vous souhaitez en savoir plus.
 | CSS3             | Express         | Testing Library          |
 | JavaScript       | Ejs              | Jest               |
 | TypeScript       | GraphQL          | Storybook                    |
-| React.js         |   PostgreSQL    |   Headless UI       |   
+| React.js         |   PostgreSQL    |   Shadcn/ui       |   
 | React Router     |  Sequelize      |              |              
 | Sass             |   Prisma        |                          |    
 
