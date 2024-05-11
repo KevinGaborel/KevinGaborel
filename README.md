@@ -24,7 +24,7 @@ N'hésitez pas a prendre contact avec moi si vous souhaitez en savoir plus.
 | JavaScript       | Ejs              | Jest               |
 | TypeScript       | GraphQL          | Storybook                    |
 | React.js         |   PostgreSQL    |   Shadcn/ui       |   
-| React Router     |  Sequelize      |              |              
+| React native    |  Sequelize      |              |              
 | Sass             |   Prisma        |                          |    
 
 <!--
